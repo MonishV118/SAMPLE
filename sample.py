@@ -1,5 +1,5 @@
 print("welcome to my compter quiz!")
-
+//hanumreddy
 playing = input("Do you went to play? ")
 
 if playing.lower() !="yes":
@@ -39,4 +39,5 @@ else:
 print("YOU got " + str(score) + "qustion correct!")
 
 print("YOU got " + str((score / 4) * 100) + "%")
+
 
